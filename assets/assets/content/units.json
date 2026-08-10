@@ -1,0 +1,93 @@
+{
+  "sites": [
+    {
+      "id": "mgh",
+      "name": "MGH",
+      "displayName": "Massachusetts General Hospital"
+    }
+  ],
+  "units": [
+    {
+      "id": "picu",
+      "name": "PICU",
+      "displayName": "Pediatric ICU",
+      "availableAt": [
+        "mgh"
+      ],
+      "journeyPhases": [],
+      "resourceCategories": [
+        {
+          "id": "administrative_resource",
+          "label": {
+            "en": "Administrative Resource"
+          }
+        },
+        {
+          "id": "discharge_planning",
+          "label": {
+            "en": "Discharge Planning"
+          }
+        },
+        {
+          "id": "educational_resource",
+          "label": {
+            "en": "Educational Resource"
+          }
+        },
+        {
+          "id": "food_dining",
+          "label": {
+            "en": "Food & Dining"
+          }
+        },
+        {
+          "id": "hospital_stay",
+          "label": {
+            "en": "Hospital Stay"
+          }
+        },
+        {
+          "id": "meet_the_care_team",
+          "label": {
+            "en": "Meet the Care Team"
+          }
+        },
+        {
+          "id": "outside_of_the_hospital",
+          "label": {
+            "en": "Outside of the Hospital"
+          }
+        },
+        {
+          "id": "parent_and_family_support",
+          "label": {
+            "en": "Parent and Family Support"
+          }
+        }
+      ],
+      "contactCategories": [
+        {
+          "id": "care_team",
+          "label": {
+            "en": "Care Team",
+            "es": "Equipo de atención"
+          }
+        },
+        {
+          "id": "support",
+          "label": {
+            "en": "Support Services",
+            "es": "Servicios de apoyo"
+          }
+        },
+        {
+          "id": "services",
+          "label": {
+            "en": "Hospital Services",
+            "es": "Servicios del hospital"
+          }
+        }
+      ]
+    }
+  ]
+}

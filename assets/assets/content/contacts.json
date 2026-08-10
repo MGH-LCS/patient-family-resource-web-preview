@@ -1,0 +1,119 @@
+[
+  {
+    "id": "patient_financial_services_pfs",
+    "name": "Patient Financial Services (PFS)",
+    "role": "PFS will work with you if you don’t have enough (or any) insurance coverage.",
+    "phone": "+16177262191",
+    "category": "support",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "pre_admission"
+      ]
+    },
+    "notes": null
+  },
+  {
+    "id": "mgb_for_children_appointments_referrals",
+    "name": "Mass General Brigham for Children Appointments & Referrals",
+    "role": "Request appointments, second opinions, referrals, and access patient services.",
+    "phone": "+18886443248",
+    "category": "services",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {},
+    "notes": null
+  },
+  {
+    "id": "medical_interpreter_services",
+    "name": "Medical Interpreter Services",
+    "role": "Certified interpreters for patients and families with limited English proficiency or who are deaf or hard of hearing.",
+    "phone": "+16177266966",
+    "category": "services",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "just_arrived"
+      ]
+    },
+    "notes": null
+  },
+  {
+    "id": "picu_front_desk",
+    "name": "PICU Front Desk",
+    "role": "For all critical care issues — questions about your child, updates, and concerns.",
+    "phone": "+16177244350",
+    "category": "care_team",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {},
+    "notes": null
+  },
+  {
+    "id": "pediatric_access_line_critical_transport",
+    "name": "Pediatric Access Line — Critical Transport",
+    "role": "Arrange transport of a critically ill infant or child. Connects you directly to a critical care physician.",
+    "phone": "+18776448988",
+    "category": "services",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {},
+    "notes": null
+  },
+  {
+    "id": "patient_and_family_relations",
+    "name": "Patient and Family Relations",
+    "role": "Liaison between patients and MGH for praise, concerns, or questions about care standards.",
+    "phone": "+16177263370",
+    "category": "services",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {},
+    "notes": null
+  },
+  {
+    "id": "pediatric_supportive_palliative_care",
+    "name": "Pediatric Supportive & Palliative Care",
+    "role": "Helps families of children with serious illness focus on quality of life, manage pain and symptoms, and coordinate care.",
+    "phone": "+16176439079",
+    "category": "services",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "notes": null
+  }
+]

@@ -1,0 +1,90 @@
+{
+  "administrative_resource": [
+    "health_care_coverage_and_patient_financial_services",
+    "financial_services",
+    "medical_interpreter_services",
+    "patient_gateway",
+    "appointments_and_referrals",
+    "family_and_medical_leave",
+    "disability_services",
+    "quality_and_safety",
+    "mgb_for_children"
+  ],
+  "discharge_planning": [
+    "picu_follow_up_clinic"
+  ],
+  "educational_resource": [
+    "hospital_treatments_and_services",
+    "preparation_for_surgery",
+    "pediatric_tracheostomy_what_you_need_to_know",
+    "pediatric_tracheostomy_how_to_suction_a_trach",
+    "pediatric_tracheostomy_how_to_exchange_a_trach",
+    "chronic_lung_conditions",
+    "asthma_what_you_need_to_know",
+    "bronchitis_and_bronchiolitis",
+    "autism_spectrum_disorder",
+    "navigating_relationships_with_chronic_illness",
+    "medication_reminder_smartphone_apps",
+    "breastfeeding_getting_started",
+    "breastfeeding_help_and_support",
+    "breastfeeding_handouts",
+    "healthy_sleep_habits_for_your_baby",
+    "learn_child_and_adult_cpr",
+    "drowning_prevention",
+    "car_seat_safety",
+    "childproofing_your_home",
+    "gun_safety_how_to_discuss_with_any_age_child",
+    "safe_driving_for_teens",
+    "the_benefits_of_childhood_vaccines",
+    "clay_center_for_young_healthy_minds",
+    "guardianship",
+    "rights_for_non_citizens",
+    "pediatric_health_library"
+  ],
+  "food_dining": [
+    "mgh_cafeterias_and_cafes"
+  ],
+  "hospital_stay": [
+    "welcome_to_the_picu",
+    "picu_welcome_guide",
+    "how_to_keep_your_child_safe_during_a_hospital_stay",
+    "overnight_accommodations",
+    "hospital_parking_and_interactive_campus_map",
+    "hospital_campus_map",
+    "pediatric_emergency_department",
+    "what_to_expect_emergency_department",
+    "iv_placement_and_phlebotomy",
+    "mgb_imaging_videos",
+    "daisy_award_nomination"
+  ],
+  "meet_the_care_team": [
+    "whos_who_on_the_picu_team",
+    "critical_care_doctors_whos_who",
+    "certified_child_life_specialists",
+    "patient_and_family_relations",
+    "pediatric_supportive_palliative_care",
+    "pediatric_hematology_and_oncology"
+  ],
+  "outside_of_the_hospital": [
+    "things_to_do_around_boston",
+    "family_activities_around_boston",
+    "ebt_card_to_culture_program"
+  ],
+  "parent_and_family_support": [
+    "massachusetts_behavioral_health_help_line",
+    "how_to_find_a_therapist",
+    "outpatient_mental_health_services",
+    "pact_program_parenting_while_battling_serious_illness",
+    "support_for_siblings_of_a_special_needs_child",
+    "my_loved_one_in_the_hospital_social_story",
+    "postpartum_and_new_parent_support",
+    "meditation_breathing_space",
+    "mindfulness_tips_for_toddlers",
+    "mindfulness_tips_for_young_children",
+    "mindfulness_tips_for_adolescents",
+    "catastrophic_illness_in_children_relief_fund",
+    "community_resources_for_caregivers_of_children",
+    "family_advisory_council",
+    "bereavement_resources"
+  ]
+}

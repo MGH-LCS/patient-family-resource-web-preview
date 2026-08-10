@@ -1,0 +1,16 @@
+{
+  "version": "2026.08.08.2",
+  "publishedAt": "2026-08-08T18:51:19.295Z",
+  "binaries": [
+    {
+      "path": "assets/pdfs/mgh-main-campus-map.pdf",
+      "sha256": "3ebdc2c818d833e4888e205427bc77a5375fd3147500ce6c6f875ad0c4b3583d",
+      "size": 1089997
+    },
+    {
+      "path": "assets/pdfs/my-loved-one-in-the-hospital.pdf",
+      "sha256": "e6ed7857ada8ab8be3bcc6e0af49c39c432b989fb2c025dbdacb98307a16f5ba",
+      "size": 650889
+    }
+  ]
+}

@@ -1,0 +1,503 @@
+{
+  "version": 2,
+  "categoryPages": {
+    "picu": {
+      "discharge_planning": {
+        "blocks": [
+          {
+            "type": "checklist",
+            "id": "discharge_readiness",
+            "sites": [
+              "*"
+            ],
+            "title": {
+              "en": "Discharge readiness checklist"
+            },
+            "subtitle": {
+              "en": "Work through this at your pace. Bring anything you can't check off to your care team."
+            },
+            "groups": [
+              {
+                "id": "meds_supplies",
+                "title": {
+                  "en": "Medications & supplies"
+                },
+                "items": [
+                  {
+                    "id": "meds_know_each",
+                    "label": {
+                      "en": "I know each medicine's name, dose, and what it's for"
+                    }
+                  },
+                  {
+                    "id": "meds_written_instructions",
+                    "label": {
+                      "en": "I have written instructions and a schedule"
+                    }
+                  },
+                  {
+                    "id": "meds_prescriptions_filled",
+                    "label": {
+                      "en": "Prescriptions are filled or on the way"
+                    }
+                  },
+                  {
+                    "id": "meds_supplies_ready",
+                    "label": {
+                      "en": "I have any needed supplies (syringes, feeding pump, oxygen, etc.)"
+                    }
+                  },
+                  {
+                    "id": "meds_side_effects",
+                    "label": {
+                      "en": "I know what side effects should prompt a call"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "follow_up_care",
+                "title": {
+                  "en": "Follow-up care"
+                },
+                "items": [
+                  {
+                    "id": "followup_pcp_scheduled",
+                    "label": {
+                      "en": "PCP follow-up scheduled (within 1–2 weeks)"
+                    }
+                  },
+                  {
+                    "id": "followup_subspecialist",
+                    "label": {
+                      "en": "Subspecialist follow-ups scheduled (or on the calendar to book)"
+                    }
+                  },
+                  {
+                    "id": "followup_number_to_call",
+                    "label": {
+                      "en": "I know what number to call if something changes"
+                    }
+                  },
+                  {
+                    "id": "followup_records_sent",
+                    "label": {
+                      "en": "Records will be sent to our PCP and outside providers"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "insurance_school",
+                "title": {
+                  "en": "Insurance & school"
+                },
+                "items": [
+                  {
+                    "id": "insurance_approval",
+                    "label": {
+                      "en": "Insurance approval confirmed for meds and equipment"
+                    }
+                  },
+                  {
+                    "id": "school_paperwork",
+                    "label": {
+                      "en": "School / daycare paperwork completed (return-to-school note, activity restrictions)"
+                    }
+                  },
+                  {
+                    "id": "school_504_iep",
+                    "label": {
+                      "en": "504 plan or IEP updates requested if needed"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "home_readiness",
+                "title": {
+                  "en": "Home readiness"
+                },
+                "items": [
+                  {
+                    "id": "home_basics",
+                    "label": {
+                      "en": "Home has heat, food, transportation for follow-ups"
+                    }
+                  },
+                  {
+                    "id": "home_financial_help",
+                    "label": {
+                      "en": "I know who to call for financial or resource help"
+                    }
+                  },
+                  {
+                    "id": "home_rehab_nursing",
+                    "label": {
+                      "en": "Rehab, LTAC, or home nursing arranged (if applicable)"
+                    }
+                  },
+                  {
+                    "id": "home_mental_health",
+                    "label": {
+                      "en": "Mental health follow-up in place for the patient or family (if needed)"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "food_dining": {
+        "blocks": [
+          {
+            "type": "text",
+            "id": "mgh_cafes_intro",
+            "sites": [
+              "*"
+            ],
+            "markdown": {
+              "en": "## MGH cafeterias & cafés\n\nDelicious and healthy food and coffee options are available across Mass General's cafés and cafeterias. Please speak with a food service staff member if you need assistance at any location."
+            }
+          },
+          {
+            "type": "infoCards",
+            "id": "eat_street_cafe",
+            "sites": [
+              "*"
+            ],
+            "cards": [
+              {
+                "id": "eat_street_cafe",
+                "title": {
+                  "en": "Eat Street Café"
+                },
+                "body": {
+                  "en": "The hospital's main cafeteria, with a variety of choices and daily Choose Well Eat Well healthy and plant-centered options. Wheelchair accessible — ask a staff member or push the red button at the main entrance for help."
+                },
+                "meta": {
+                  "en": "Mon–Fri 6:30 am–8 pm · Sat, Sun & holidays 7 am–7 pm"
+                },
+                "subtitle": {
+                  "en": "Ellison Building, lower level. "
+                }
+              }
+            ]
+          },
+          {
+            "type": "infoCards",
+            "id": "coffee_central",
+            "sites": [
+              "*"
+            ],
+            "cards": [
+              {
+                "id": "coffee_central",
+                "title": {
+                  "en": "Coffee Central"
+                },
+                "body": {
+                  "en": "Coffee, tea, and cold beverages to go, plus freshly baked muffins, pastries, cookies, and fruit."
+                },
+                "meta": {
+                  "en": "Open 24 hours, 7 days a week"
+                },
+                "subtitle": {
+                  "en": "Gray Building, main lobby."
+                }
+              }
+            ]
+          },
+          {
+            "type": "infoCards",
+            "id": "riverside_cafe",
+            "sites": [
+              "*"
+            ],
+            "cards": [
+              {
+                "id": "riverside_cafe",
+                "title": {
+                  "en": "Riverside Café"
+                },
+                "body": {
+                  "en": "Hot breakfast sandwiches and baked goods in the morning; panini, soups, bruschetta, a daily hot entrée, and Grab & Go sandwiches and salads at lunch. Coffee, tea, beverages, and desserts too."
+                },
+                "meta": {
+                  "en": "Mon–Fri 7 am–3 pm"
+                },
+                "subtitle": {
+                  "en": "Yawkey Center for Outpatient Care, main lobby. "
+                }
+              }
+            ]
+          },
+          {
+            "type": "infoCards",
+            "id": "coffee_south",
+            "sites": [
+              "*"
+            ],
+            "cards": [
+              {
+                "id": "coffee_south",
+                "title": {
+                  "en": "Coffee South"
+                },
+                "body": {
+                  "en": "Coffee, tea, and cold beverages to go, plus muffins, pastries, bagels, cookies, and fruit. Grab & Go sandwiches and salads, and seasonal smoothies in the warmer months."
+                },
+                "meta": {
+                  "en": "Mon–Fri 6:30 am–5 pm"
+                },
+                "subtitle": {
+                  "en": "Yawkey Center for Outpatient Care, main lobby. "
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "food_vending_intro",
+            "sites": [
+              "*"
+            ],
+            "markdown": {
+              "en": "## Vending machines & 24/7 snacks\n\nWhen the cafés are closed (late nights, early mornings, weekends), vending machines and a few 24-hour spots can tide you over without leaving the hospital."
+            }
+          },
+          {
+            "type": "infoCards",
+            "id": "ellison_lobby_vending",
+            "sites": [
+              "*"
+            ],
+            "cards": [
+              {
+                "id": "ellison_lobby_vending",
+                "title": {
+                  "en": "Ellison lobby vending"
+                },
+                "body": {
+                  "en": "Snacks, cold drinks, and coffee vending machines in the Ellison Building main lobby. Available 24/7. Accepts cards and mobile pay."
+                }
+              }
+            ]
+          },
+          {
+            "type": "infoCards",
+            "id": "white_building_vending",
+            "sites": [
+              "*"
+            ],
+            "cards": [
+              {
+                "id": "white_building_vending",
+                "title": {
+                  "en": "White Building vending alcove"
+                },
+                "body": {
+                  "en": "Off the main corridor near the elevators — hot coffee, sandwiches, chips, and microwaveable meals. Open around the clock."
+                }
+              }
+            ]
+          },
+          {
+            "type": "infoCards",
+            "id": "bigelow_blake_vending",
+            "sites": [
+              "*"
+            ],
+            "cards": [
+              {
+                "id": "bigelow_blake_vending",
+                "title": {
+                  "en": "Bigelow & Blake vending"
+                },
+                "body": {
+                  "en": "Additional vending clusters on lower levels of Bigelow and Blake buildings. Ask any security officer for the closest one to your unit."
+                }
+              }
+            ]
+          },
+          {
+            "type": "infoCards",
+            "id": "coffee_central_late",
+            "sites": [
+              "*"
+            ],
+            "cards": [
+              {
+                "id": "coffee_central_late",
+                "title": {
+                  "en": "Coffee Central late window"
+                },
+                "body": {
+                  "en": "When the seating area closes, the grab-and-go cooler often stays stocked with wraps, yogurt, and fruit until the next morning."
+                }
+              }
+            ]
+          },
+          {
+            "type": "infoCards",
+            "id": "picu_lounge_kitchenette",
+            "sites": [
+              "*"
+            ],
+            "cards": [
+              {
+                "id": "picu_lounge_kitchenette",
+                "title": {
+                  "en": "PICU family lounge kitchenette"
+                },
+                "body": {
+                  "en": "Free coffee, tea, and light snacks stocked by Child Life and volunteers. Refills happen a few times a day — take what you need."
+                }
+              }
+            ]
+          },
+          {
+            "type": "infoCards",
+            "id": "room_service_after_hours",
+            "sites": [
+              "*"
+            ],
+            "cards": [
+              {
+                "id": "room_service_after_hours",
+                "title": {
+                  "en": "Room service after hours"
+                },
+                "body": {
+                  "en": "Some patient meal programs allow a parent tray to be added to your child's late order. Ask the overnight nurse what's possible."
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "food_nearby_intro",
+            "sites": [
+              "*"
+            ],
+            "markdown": {
+              "en": "## Food near the hospital"
+            }
+          },
+          {
+            "type": "infoCards",
+            "id": "whole_foods_charles_river",
+            "sites": [
+              "*"
+            ],
+            "cards": [
+              {
+                "id": "whole_foods_charles_river",
+                "title": {
+                  "en": "Whole Foods Market — Charles River Plaza"
+                },
+                "body": {
+                  "en": "Across Cambridge St from MGH. Hot bar, salad bar, sushi, sandwiches, and groceries."
+                },
+                "meta": {
+                  "en": "Open ~7 AM – 10 PM daily"
+                }
+              }
+            ]
+          },
+          {
+            "type": "infoCards",
+            "id": "charles_mgh_cafes",
+            "sites": [
+              "*"
+            ],
+            "cards": [
+              {
+                "id": "charles_mgh_cafes",
+                "title": {
+                  "en": "Cafeteria & bakery — Charles/MGH area"
+                },
+                "body": {
+                  "en": "Tatte Bakery & Café (Charles St) and Pressed Café (Cambridge St) — pastries, sandwiches, salads. Open early morning through evening."
+                }
+              }
+            ]
+          },
+          {
+            "type": "infoCards",
+            "id": "cambridge_st_quick_bites",
+            "sites": [
+              "*"
+            ],
+            "cards": [
+              {
+                "id": "cambridge_st_quick_bites",
+                "title": {
+                  "en": "Quick bites on Cambridge St"
+                },
+                "body": {
+                  "en": "Sweetgreen, Chipotle, Cava, and Panera are all a 3–5 minute walk. Most open until 9–10 PM and deliver via DoorDash/Uber Eats."
+                }
+              }
+            ]
+          },
+          {
+            "type": "infoCards",
+            "id": "late_night_options",
+            "sites": [
+              "*"
+            ],
+            "cards": [
+              {
+                "id": "late_night_options",
+                "title": {
+                  "en": "Late-night / 24-hour options"
+                },
+                "body": {
+                  "en": "7-Eleven (Cambridge St, near Charles Circle) is open 24 hours for snacks and basics. Beacon Hill Market (Charles St) is a late-night grocery until midnight. South Station food court (~15 min via Red Line) has several 24-hour spots if you need a change of scene."
+                }
+              }
+            ]
+          },
+          {
+            "type": "infoCards",
+            "id": "delivery_to_hospital",
+            "sites": [
+              "*"
+            ],
+            "cards": [
+              {
+                "id": "delivery_to_hospital",
+                "title": {
+                  "en": "Delivery to the hospital"
+                },
+                "body": {
+                  "en": "DoorDash, Uber Eats, and Grubhub all deliver to MGH. Meet the driver at the Fruit St main entrance — most buildings don't allow drivers upstairs."
+                }
+              }
+            ]
+          },
+          {
+            "type": "infoCards",
+            "id": "north_end",
+            "sites": [
+              "*"
+            ],
+            "cards": [
+              {
+                "id": "north_end",
+                "title": {
+                  "en": "North End (10 min walk / short ride)"
+                },
+                "body": {
+                  "en": "For a real break: Italian restaurants and cafés on Hanover St stay open late. Regina Pizzeria and Mike's Pastry are family favorites."
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
