@@ -1,0 +1,234 @@
+{
+  "version": 2,
+  "questions": [
+    {
+      "type": "likert",
+      "id": "app_reliable",
+      "label": {
+        "en": "The app worked well and did not have glitches."
+      }
+    },
+    {
+      "type": "likert",
+      "id": "easy_to_use",
+      "label": {
+        "en": "The app was easy to learn and simple to use."
+      }
+    },
+    {
+      "type": "likert",
+      "id": "easy_to_understand",
+      "label": {
+        "en": "The information was easy for my family and I to read and understand."
+      }
+    },
+    {
+      "type": "likert",
+      "id": "learned_about_care",
+      "label": {
+        "en": "Using the app helped me learn more about my child's healthcare."
+      }
+    },
+    {
+      "type": "likert",
+      "id": "clear_wording",
+      "label": {
+        "en": "The words and steps in the app were clear."
+      }
+    },
+    {
+      "type": "likert",
+      "id": "content_helpful",
+      "label": {
+        "en": "The facts and pictures in the app helped me a lot."
+      }
+    },
+    {
+      "type": "likert",
+      "id": "trusted_information",
+      "label": {
+        "en": "I trusted the information inside the app."
+      }
+    },
+    {
+      "type": "likert",
+      "id": "had_everything",
+      "label": {
+        "en": "The app had everything I hoped to find."
+      }
+    },
+    {
+      "type": "likert",
+      "id": "improves_stay",
+      "label": {
+        "en": "This app helps make a hospital stay better."
+      }
+    },
+    {
+      "type": "likert",
+      "id": "overall_liked",
+      "label": {
+        "en": "Overall, I liked using this app."
+      }
+    },
+    {
+      "type": "text",
+      "id": "missing_content",
+      "label": {
+        "en": "What specific information or resources were missing that you expected to see?"
+      }
+    }
+  ],
+  "audiences": {
+    "family": {
+      "version": 2,
+      "questions": [
+        {
+          "type": "likert",
+          "id": "app_reliable",
+          "label": {
+            "en": "The app worked well and did not have glitches."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "easy_to_use",
+          "label": {
+            "en": "The app was easy to learn and simple to use."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "easy_to_understand",
+          "label": {
+            "en": "The information was easy for my family and I to read and understand."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "learned_about_care",
+          "label": {
+            "en": "Using the app helped me learn more about my child's healthcare."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "clear_wording",
+          "label": {
+            "en": "The words and steps in the app were clear."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "content_helpful",
+          "label": {
+            "en": "The facts and pictures in the app helped me a lot."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "trusted_information",
+          "label": {
+            "en": "I trusted the information inside the app."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "had_everything",
+          "label": {
+            "en": "The app had everything I hoped to find."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "improves_stay",
+          "label": {
+            "en": "This app helps make a hospital stay better."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "overall_liked",
+          "label": {
+            "en": "Overall, I liked using this app."
+          }
+        },
+        {
+          "type": "text",
+          "id": "missing_content",
+          "label": {
+            "en": "What specific information or resources were missing that you expected to see?"
+          }
+        }
+      ]
+    },
+    "clinician": {
+      "version": 2,
+      "questions": [
+        {
+          "type": "likert",
+          "id": "layout_clear",
+          "label": {
+            "en": "The app's layout and navigation were easy to understand."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "free_of_friction",
+          "label": {
+            "en": "The app was free of frustrating or confusing elements."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "worked_as_expected",
+          "label": {
+            "en": "Everything in the app worked and functioned exactly as I expected it to."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "content_useful",
+          "label": {
+            "en": "The content provided in the app was highly useful and relevant to my needs."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "discovered_new_resources",
+          "label": {
+            "en": "The app introduced me to valuable new tools or resources that I was not previously aware of."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "had_expected_content",
+          "label": {
+            "en": "The app contained all the information and resources I expected to find."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "recommend_to_others",
+          "label": {
+            "en": "I would recommend this app to my patients, families, or peers."
+          }
+        },
+        {
+          "type": "text",
+          "id": "staff_missing_content",
+          "label": {
+            "en": "What specific information or resources were missing that you expected to see?"
+          }
+        },
+        {
+          "type": "text",
+          "id": "most_helpful_content",
+          "label": {
+            "en": "Which specific resource or piece of content was most helpful?"
+          }
+        }
+      ]
+    }
+  }
+}

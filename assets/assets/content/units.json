@@ -1,0 +1,187 @@
+{
+  "sites": [
+    {
+      "id": "mgh",
+      "name": "MGH",
+      "displayName": "Massachusetts General Hospital"
+    }
+  ],
+  "units": [
+    {
+      "id": "picu",
+      "name": "PICU",
+      "displayName": "Pediatric ICU",
+      "availableAt": [
+        "mgh"
+      ],
+      "journeyPhases": [
+        {
+          "id": "pre_admission",
+          "label": {
+            "en": "Preparing to Come In",
+            "es": "Preparándose para llegar"
+          },
+          "shortLabel": {
+            "en": "Preparing",
+            "es": "Preparación"
+          }
+        },
+        {
+          "id": "just_arrived",
+          "label": {
+            "en": "Just Arrived",
+            "es": "Recién llegados"
+          },
+          "shortLabel": {
+            "en": "Just Arrived",
+            "es": "Al llegar"
+          }
+        },
+        {
+          "id": "first_night",
+          "label": {
+            "en": "First Night",
+            "es": "Primera noche"
+          },
+          "shortLabel": {
+            "en": "First Night",
+            "es": "Primera noche"
+          }
+        },
+        {
+          "id": "first_days",
+          "label": {
+            "en": "First Few Days",
+            "es": "Los primeros días"
+          },
+          "shortLabel": {
+            "en": "First Days",
+            "es": "Primeros días"
+          }
+        },
+        {
+          "id": "going_home",
+          "label": {
+            "en": "Going Home",
+            "es": "Regresando a casa"
+          },
+          "shortLabel": {
+            "en": "Going Home",
+            "es": "A casa"
+          }
+        },
+        {
+          "id": "after_discharge",
+          "label": {
+            "en": "We're Home",
+            "es": "Estamos en casa"
+          },
+          "shortLabel": {
+            "en": "We're Home",
+            "es": "En casa"
+          }
+        }
+      ],
+      "resourceCategories": [
+        {
+          "id": "administrative_resource",
+          "label": {
+            "en": "Administrative Resources"
+          }
+        },
+        {
+          "id": "campus_map",
+          "label": {
+            "en": "Campus Map"
+          },
+          "directOpenPdf": "assets/pdfs/mgh-main-campus-map.pdf"
+        },
+        {
+          "id": "discharge_planning",
+          "label": {
+            "en": "Discharge Planning"
+          }
+        },
+        {
+          "id": "educational_resource",
+          "label": {
+            "en": "Educational Resources"
+          }
+        },
+        {
+          "id": "food_dining",
+          "label": {
+            "en": "Food & Dining"
+          }
+        },
+        {
+          "id": "gift_shop",
+          "label": {
+            "en": "Gift Shop"
+          },
+          "directOpenResource": "gift_shop_and_flower_shop"
+        },
+        {
+          "id": "hospital_stay",
+          "label": {
+            "en": "Hospital Stay"
+          }
+        },
+        {
+          "id": "meet_the_care_team",
+          "label": {
+            "en": "Meet the Care Team"
+          }
+        },
+        {
+          "id": "outside_of_the_hospital",
+          "label": {
+            "en": "Outside of the Hospital"
+          }
+        },
+        {
+          "id": "parent_and_family_support",
+          "label": {
+            "en": "Parent and Family Support"
+          }
+        },
+        {
+          "id": "parking",
+          "label": {
+            "en": "Parking"
+          }
+        },
+        {
+          "id": "transportation",
+          "label": {
+            "en": "Transportation"
+          },
+          "directOpenResource": "getting_here_by_public_transit"
+        }
+      ],
+      "contactCategories": [
+        {
+          "id": "care_team",
+          "label": {
+            "en": "Care Team",
+            "es": "Equipo de atención"
+          }
+        },
+        {
+          "id": "support",
+          "label": {
+            "en": "Support Services",
+            "es": "Servicios de apoyo"
+          }
+        },
+        {
+          "id": "services",
+          "label": {
+            "en": "Hospital Services",
+            "es": "Servicios del hospital"
+          }
+        }
+      ]
+    }
+  ]
+}
