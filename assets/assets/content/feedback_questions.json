@@ -1,0 +1,274 @@
+{
+  "version": 3,
+  "questions": [
+    {
+      "type": "likert",
+      "id": "app_reliable",
+      "label": {
+        "en": "The app worked well and did not have glitches.",
+        "es": "La aplicación funcionó bien y no presentó fallos."
+      }
+    },
+    {
+      "type": "likert",
+      "id": "easy_to_use",
+      "label": {
+        "en": "The app was easy to learn and simple to use.",
+        "es": "La aplicación fue fácil de aprender y sencilla de usar."
+      }
+    },
+    {
+      "type": "likert",
+      "id": "easy_to_understand",
+      "label": {
+        "en": "The information was easy for my family and I to read and understand.",
+        "es": "La información fue fácil de leer y comprender para mí y mi familia."
+      }
+    },
+    {
+      "type": "likert",
+      "id": "learned_about_care",
+      "label": {
+        "en": "Using the app helped me learn more about my child's healthcare.",
+        "es": "Usar la aplicación me ayudó a aprender más sobre la atención médica de mi hijo."
+      }
+    },
+    {
+      "type": "likert",
+      "id": "clear_wording",
+      "label": {
+        "en": "The words and steps in the app were clear.",
+        "es": "El lenguaje y los pasos indicados en la aplicación fueron claros."
+      }
+    },
+    {
+      "type": "likert",
+      "id": "content_helpful",
+      "label": {
+        "en": "The facts and pictures in the app helped me a lot.",
+        "es": "La información y las imágenes de la aplicación me fueron de gran ayuda."
+      }
+    },
+    {
+      "type": "likert",
+      "id": "trusted_information",
+      "label": {
+        "en": "I trusted the information inside the app.",
+        "es": "Confié en la información que contenía la aplicación."
+      }
+    },
+    {
+      "type": "likert",
+      "id": "had_everything",
+      "label": {
+        "en": "The app had everything I hoped to find.",
+        "es": "La aplicación incluía todo lo que esperaba encontrar."
+      }
+    },
+    {
+      "type": "likert",
+      "id": "improves_stay",
+      "label": {
+        "en": "This app helps make a hospital stay better.",
+        "es": "Esta aplicación ayuda a mejorar la experiencia de la estancia en el hospital."
+      }
+    },
+    {
+      "type": "likert",
+      "id": "overall_liked",
+      "label": {
+        "en": "Overall, I liked using this app.",
+        "es": "En general, me gustó usar la aplicación."
+      }
+    },
+    {
+      "type": "text",
+      "id": "change_or_improve",
+      "label": {
+        "en": "What is one thing you would change or improve?",
+        "es": "Si pudiera cambiar o mejorar una cosa, ¿cuál sería?"
+      }
+    },
+    {
+      "type": "text",
+      "id": "features_not_found",
+      "label": {
+        "en": "Are there any features you expected to see but could not find?",
+        "es": "¿Hubo alguna función que esperaba ver y no pudo encontrar?"
+      }
+    }
+  ],
+  "audiences": {
+    "family": {
+      "version": 3,
+      "questions": [
+        {
+          "type": "likert",
+          "id": "app_reliable",
+          "label": {
+            "en": "The app worked well and did not have glitches.",
+            "es": "La aplicación funcionó bien y no presentó fallos."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "easy_to_use",
+          "label": {
+            "en": "The app was easy to learn and simple to use.",
+            "es": "La aplicación fue fácil de aprender y sencilla de usar."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "easy_to_understand",
+          "label": {
+            "en": "The information was easy for my family and I to read and understand.",
+            "es": "La información fue fácil de leer y comprender para mí y mi familia."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "learned_about_care",
+          "label": {
+            "en": "Using the app helped me learn more about my child's healthcare.",
+            "es": "Usar la aplicación me ayudó a aprender más sobre la atención médica de mi hijo."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "clear_wording",
+          "label": {
+            "en": "The words and steps in the app were clear.",
+            "es": "El lenguaje y los pasos indicados en la aplicación fueron claros."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "content_helpful",
+          "label": {
+            "en": "The facts and pictures in the app helped me a lot.",
+            "es": "La información y las imágenes de la aplicación me fueron de gran ayuda."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "trusted_information",
+          "label": {
+            "en": "I trusted the information inside the app.",
+            "es": "Confié en la información que contenía la aplicación."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "had_everything",
+          "label": {
+            "en": "The app had everything I hoped to find.",
+            "es": "La aplicación incluía todo lo que esperaba encontrar."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "improves_stay",
+          "label": {
+            "en": "This app helps make a hospital stay better.",
+            "es": "Esta aplicación ayuda a mejorar la experiencia de la estancia en el hospital."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "overall_liked",
+          "label": {
+            "en": "Overall, I liked using this app.",
+            "es": "En general, me gustó usar la aplicación."
+          }
+        },
+        {
+          "type": "text",
+          "id": "change_or_improve",
+          "label": {
+            "en": "What is one thing you would change or improve?",
+            "es": "Si pudiera cambiar o mejorar una cosa, ¿cuál sería?"
+          }
+        },
+        {
+          "type": "text",
+          "id": "features_not_found",
+          "label": {
+            "en": "Are there any features you expected to see but could not find?",
+            "es": "¿Hubo alguna función que esperaba ver y no pudo encontrar?"
+          }
+        }
+      ]
+    },
+    "clinician": {
+      "version": 3,
+      "questions": [
+        {
+          "type": "likert",
+          "id": "layout_clear",
+          "label": {
+            "en": "The app's layout and navigation were easy to understand."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "free_of_friction",
+          "label": {
+            "en": "The app was free of frustrating or confusing elements."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "worked_as_expected",
+          "label": {
+            "en": "Everything in the app worked and functioned exactly as I expected it to."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "content_useful",
+          "label": {
+            "en": "The content provided in the app was highly useful and relevant to my needs."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "discovered_new_resources",
+          "label": {
+            "en": "The app introduced me to valuable new tools or resources that I was not previously aware of."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "had_expected_content",
+          "label": {
+            "en": "The app contained all the information and resources I expected to find."
+          }
+        },
+        {
+          "type": "likert",
+          "id": "recommend_to_others",
+          "label": {
+            "en": "I would recommend this app to my patients, families, or peers."
+          }
+        },
+        {
+          "type": "text",
+          "id": "staff_change_or_improve",
+          "label": {
+            "en": "What is one thing you would change or improve?",
+            "es": "Si pudiera cambiar o mejorar una cosa, ¿cuál sería?"
+          }
+        },
+        {
+          "type": "text",
+          "id": "staff_features_not_found",
+          "label": {
+            "en": "Are there any features you expected to see but could not find?",
+            "es": "¿Hubo alguna función que esperaba ver y no pudo encontrar?"
+          }
+        }
+      ]
+    }
+  }
+}

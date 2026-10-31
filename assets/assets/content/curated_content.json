@@ -1,0 +1,1140 @@
+{
+  "version": 35,
+  "categoryPages": {
+    "picu": {
+      "food_dining": {
+        "blocks": [
+          {
+            "type": "section",
+            "id": "cafes_section",
+            "title": {
+              "en": "MGH cafeterias & cafés",
+              "es": "Cafeterías y cafés de MGH"
+            },
+            "chipLabel": {
+              "en": "MGH Cafés",
+              "es": "Cafés de MGH"
+            },
+            "intro": {
+              "en": "Delicious and healthy food and coffee options are available across Mass General's cafés and cafeterias. Please speak with a food service staff member if you need assistance at any location.\n\nHours may be different on holidays.",
+              "es": "En las cafeterías y cafés de Mass General hay opciones de comida y café deliciosas y saludables. Si necesita ayuda en cualquiera de ellos, hable con un miembro del personal de servicio de alimentos.\n\nEl horario puede ser diferente los días festivos."
+            }
+          },
+          {
+            "type": "infoCards",
+            "id": "eat_street_cafe",
+            "sites": [
+              "*"
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
+            ],
+            "cards": [
+              {
+                "id": "eat_street_cafe",
+                "title": {
+                  "en": "Eat Street Café",
+                  "es": "Eat Street Café"
+                },
+                "subtitle": {
+                  "en": "Ellison Building, lower level.",
+                  "es": "Edificio Ellison, nivel inferior."
+                },
+                "body": {
+                  "en": "The hospital's main cafeteria, with a variety of choices and daily Choose Well Eat Well healthy and plant-centered options. Wheelchair accessible — ask a staff member or push the red button at the main entrance for help. Take the elevators directly off the PICU to the Basement (B) then follow the signage to the Eat Street Cafe.\n",
+                  "es": "La cafetería principal del hospital, con gran variedad de opciones y platos saludables y a base de plantas del programa Choose Well Eat Well todos los días. Accesible para sillas de ruedas: pida ayuda a un miembro del personal o presione el botón rojo en la entrada principal. Tome los ascensores que están justo al salir de la PICU hasta el sótano (B) y siga las señales hasta Eat Street Café.\n"
+                },
+                "meta": {
+                  "en": "Mon–Fri 6:30 am–8 pm · Sat, Sun 7 am–7 pm",
+                  "es": "lun–vie 6:30–20:00 · sáb, dom 7:00–19:00"
+                },
+                "hours": {
+                  "mon": [
+                    {
+                      "open": "06:30",
+                      "close": "20:00"
+                    }
+                  ],
+                  "tue": [
+                    {
+                      "open": "06:30",
+                      "close": "20:00"
+                    }
+                  ],
+                  "wed": [
+                    {
+                      "open": "06:30",
+                      "close": "20:00"
+                    }
+                  ],
+                  "thu": [
+                    {
+                      "open": "06:30",
+                      "close": "20:00"
+                    }
+                  ],
+                  "fri": [
+                    {
+                      "open": "06:30",
+                      "close": "20:00"
+                    }
+                  ],
+                  "sat": [
+                    {
+                      "open": "07:00",
+                      "close": "19:00"
+                    }
+                  ],
+                  "sun": [
+                    {
+                      "open": "07:00",
+                      "close": "19:00"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "type": "infoCards",
+            "id": "coffee_central",
+            "sites": [
+              "*"
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
+            ],
+            "cards": [
+              {
+                "id": "coffee_central",
+                "title": {
+                  "en": "Coffee Central",
+                  "es": "Coffee Central"
+                },
+                "subtitle": {
+                  "en": "Gray Building, main lobby.",
+                  "es": "Edificio Gray, vestíbulo principal."
+                },
+                "body": {
+                  "en": "Coffee, tea, and cold beverages to go, plus freshly baked muffins, pastries, cookies, and fruit.",
+                  "es": "Café, té y bebidas frías para llevar, además de muffins recién horneados, pastelitos, galletas y fruta."
+                },
+                "meta": {
+                  "en": "Open 24 hours, every day",
+                  "es": "Abierto las 24 horas, todos los días"
+                },
+                "hours": {
+                  "mon": [
+                    {
+                      "open": "00:00",
+                      "close": "24:00"
+                    }
+                  ],
+                  "tue": [
+                    {
+                      "open": "00:00",
+                      "close": "24:00"
+                    }
+                  ],
+                  "wed": [
+                    {
+                      "open": "00:00",
+                      "close": "24:00"
+                    }
+                  ],
+                  "thu": [
+                    {
+                      "open": "00:00",
+                      "close": "24:00"
+                    }
+                  ],
+                  "fri": [
+                    {
+                      "open": "00:00",
+                      "close": "24:00"
+                    }
+                  ],
+                  "sat": [
+                    {
+                      "open": "00:00",
+                      "close": "24:00"
+                    }
+                  ],
+                  "sun": [
+                    {
+                      "open": "00:00",
+                      "close": "24:00"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "type": "infoCards",
+            "id": "riverside_cafe",
+            "sites": [
+              "*"
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
+            ],
+            "cards": [
+              {
+                "id": "riverside_cafe",
+                "title": {
+                  "en": "Riverside Café",
+                  "es": "Riverside Café"
+                },
+                "subtitle": {
+                  "en": "Yawkey Center for Outpatient Care, main lobby. ",
+                  "es": "Centro Yawkey de Atención Ambulatoria, vestíbulo principal."
+                },
+                "body": {
+                  "en": "Hot breakfast sandwiches and baked goods in the morning; panini, soups, bruschetta, a daily hot entrée, and Grab & Go sandwiches and salads at lunch. Coffee, tea, beverages, and desserts too.",
+                  "es": "Sándwiches calientes de desayuno y productos horneados por la mañana; al mediodía, panini, sopas, bruschetta, un plato caliente del día y sándwiches y ensaladas para llevar. También hay café, té, bebidas y postres."
+                },
+                "meta": {
+                  "en": "Mon–Fri 7 am–3 pm",
+                  "es": "lun–vie 7:00–15:00"
+                },
+                "hours": {
+                  "mon": [
+                    {
+                      "open": "07:00",
+                      "close": "15:00"
+                    }
+                  ],
+                  "tue": [
+                    {
+                      "open": "07:00",
+                      "close": "15:00"
+                    }
+                  ],
+                  "wed": [
+                    {
+                      "open": "07:00",
+                      "close": "15:00"
+                    }
+                  ],
+                  "thu": [
+                    {
+                      "open": "07:00",
+                      "close": "15:00"
+                    }
+                  ],
+                  "fri": [
+                    {
+                      "open": "07:00",
+                      "close": "15:00"
+                    }
+                  ],
+                  "sat": [],
+                  "sun": []
+                }
+              }
+            ]
+          },
+          {
+            "type": "infoCards",
+            "id": "coffee_south",
+            "sites": [
+              "*"
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
+            ],
+            "cards": [
+              {
+                "id": "coffee_south",
+                "title": {
+                  "en": "Coffee South",
+                  "es": "Coffee South"
+                },
+                "style": "plain",
+                "subtitle": {
+                  "en": "Yawkey Center for Outpatient Care, main lobby. ",
+                  "es": "Centro Yawkey de Atención Ambulatoria, vestíbulo principal."
+                },
+                "body": {
+                  "en": "Coffee, tea, and cold beverages to go, plus muffins, pastries, bagels, cookies, and fruit. Grab & Go sandwiches and salads, and seasonal smoothies in the warmer months.",
+                  "es": "Café, té y bebidas frías para llevar, además de muffins, pastelitos, bagels, galletas y fruta. Sándwiches y ensaladas para llevar, y batidos de temporada en los meses más cálidos."
+                },
+                "meta": {
+                  "en": "Mon–Fri 6:30 am–5 pm",
+                  "es": "lun–vie 6:30–17:00"
+                },
+                "hours": {
+                  "mon": [
+                    {
+                      "open": "06:30",
+                      "close": "17:00"
+                    }
+                  ],
+                  "tue": [
+                    {
+                      "open": "06:30",
+                      "close": "17:00"
+                    }
+                  ],
+                  "wed": [
+                    {
+                      "open": "06:30",
+                      "close": "17:00"
+                    }
+                  ],
+                  "thu": [
+                    {
+                      "open": "06:30",
+                      "close": "17:00"
+                    }
+                  ],
+                  "fri": [
+                    {
+                      "open": "06:30",
+                      "close": "17:00"
+                    }
+                  ],
+                  "sat": [],
+                  "sun": []
+                }
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "id": "vending_section",
+            "title": {
+              "en": "Vending machines & 24/7 snacks",
+              "es": "Máquinas expendedoras y refrigerios las 24 horas"
+            },
+            "chipLabel": {
+              "en": "Vending",
+              "es": "Máquinas"
+            },
+            "intro": {
+              "en": "When the cafés are closed (late nights, early mornings, weekends), vending machines and a few 24-hour spots can tide you over without leaving the hospital.",
+              "es": "Cuando los cafés están cerrados (tarde en la noche, temprano en la mañana y los fines de semana), las máquinas expendedoras y algunos lugares abiertos las 24 horas le permiten comer algo sin salir del hospital."
+            }
+          },
+          {
+            "type": "infoCards",
+            "id": "ellison_lobby_vending",
+            "sites": [
+              "*"
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
+            ],
+            "cards": [
+              {
+                "id": "ellison_lobby_vending",
+                "title": {
+                  "en": "Ellison lobby vending",
+                  "es": "Máquinas expendedoras del vestíbulo de Ellison"
+                },
+                "body": {
+                  "en": "Snacks, cold drinks, and coffee vending machines in the Ellison Building main lobby. Available 24/7. Accepts cards and mobile pay.",
+                  "es": "Máquinas de refrigerios, bebidas frías y café en el vestíbulo principal del edificio Ellison. Disponibles las 24 horas, todos los días. Aceptan tarjetas y pagos con el teléfono."
+                }
+              }
+            ]
+          },
+          {
+            "type": "infoCards",
+            "id": "white_building_vending",
+            "sites": [
+              "*"
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
+            ],
+            "cards": [
+              {
+                "id": "white_building_vending",
+                "title": {
+                  "en": "White Building vending alcove",
+                  "es": "Área de máquinas expendedoras del edificio White"
+                },
+                "body": {
+                  "en": "Off the main corridor near the elevators — hot coffee, sandwiches, chips, and microwaveable meals. Open around the clock.",
+                  "es": "Junto al pasillo principal, cerca de los ascensores: café caliente, sándwiches, papitas y comidas para calentar en el microondas. Abierto las 24 horas."
+                }
+              }
+            ]
+          },
+          {
+            "type": "infoCards",
+            "id": "bigelow_blake_vending",
+            "sites": [
+              "*"
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
+            ],
+            "cards": [
+              {
+                "id": "bigelow_blake_vending",
+                "title": {
+                  "en": "Bigelow & Blake vending",
+                  "es": "Máquinas expendedoras de Bigelow y Blake"
+                },
+                "body": {
+                  "en": "Additional vending clusters on lower levels of Bigelow and Blake buildings. Ask any security officer for the closest one to your unit.",
+                  "es": "Hay más máquinas expendedoras en los niveles inferiores de los edificios Bigelow y Blake. Pregúntele a cualquier oficial de seguridad cuáles son las más cercanas a su unidad."
+                }
+              }
+            ]
+          },
+          {
+            "type": "infoCards",
+            "id": "coffee_central_late",
+            "sites": [
+              "*"
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
+            ],
+            "cards": [
+              {
+                "id": "coffee_central_late",
+                "title": {
+                  "en": "Coffee Central late window",
+                  "es": "Coffee Central por la noche"
+                },
+                "body": {
+                  "en": "When the seating area closes, the grab-and-go cooler often stays stocked with wraps, yogurt, and fruit until the next morning.",
+                  "es": "Cuando cierra el área de mesas, el refrigerador de productos para llevar suele quedar abastecido con wraps, yogur y fruta hasta la mañana siguiente."
+                }
+              }
+            ]
+          },
+          {
+            "type": "infoCards",
+            "id": "picu_lounge_kitchenette",
+            "sites": [
+              "*"
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
+            ],
+            "cards": [
+              {
+                "id": "picu_lounge_kitchenette",
+                "title": {
+                  "en": "PICU family lounge kitchenette",
+                  "es": "Cocineta de la sala familiar de la PICU"
+                },
+                "body": {
+                  "en": "Free coffee, tea, and light snacks stocked by Child Life and volunteers. Refills happen a few times a day — take what you need.",
+                  "es": "Café, té y refrigerios ligeros gratis, que reponen el equipo de Child Life y los voluntarios varias veces al día. Tome lo que necesite."
+                }
+              }
+            ]
+          },
+          {
+            "type": "infoCards",
+            "id": "room_service_after_hours",
+            "sites": [
+              "*"
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
+            ],
+            "cards": [
+              {
+                "id": "room_service_after_hours",
+                "title": {
+                  "en": "Room service after hours",
+                  "es": "Servicio de comidas fuera de horario"
+                },
+                "style": "plain",
+                "body": {
+                  "en": "Breastfeeding mothers may request a meal tray to be provided directly to their room for Breakfast, Lunch and Dinner — ask your nurse for more information.",
+                  "es": "Algunos programas de comidas para pacientes permiten agregar una bandeja para el padre o la madre al pedido nocturno de su hijo. Pregúntele a la enfermera del turno de noche qué es posible. Las madres que están amamantando pueden pedir que les lleven una bandeja de comida a la habitación para el desayuno, el almuerzo y la cena; pídale más información a su enfermera."
+                }
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "id": "nearby_section",
+            "title": {
+              "en": "Food near the hospital",
+              "es": "Comida cerca del hospital"
+            },
+            "chipLabel": {
+              "en": "Nearby",
+              "es": "Cerca"
+            }
+          },
+          {
+            "type": "infoCards",
+            "id": "whole_foods_charles_river",
+            "sites": [
+              "*"
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
+            ],
+            "cards": [
+              {
+                "id": "whole_foods_charles_river",
+                "title": {
+                  "en": "Whole Foods Market — Charles River Plaza",
+                  "es": "Whole Foods Market — Charles River Plaza"
+                },
+                "body": {
+                  "en": "Across Cambridge St from MGH. Hot bar, salad bar, sushi, sandwiches, and groceries.",
+                  "es": "Frente a MGH, al otro lado de Cambridge St. Bufé caliente, barra de ensaladas, sushi, sándwiches y comestibles."
+                },
+                "meta": {
+                  "en": "Every day 7 am–9 pm",
+                  "es": "Todos los días 7:00–21:00"
+                },
+                "hours": {
+                  "mon": [
+                    {
+                      "open": "07:00",
+                      "close": "21:00"
+                    }
+                  ],
+                  "tue": [
+                    {
+                      "open": "07:00",
+                      "close": "21:00"
+                    }
+                  ],
+                  "wed": [
+                    {
+                      "open": "07:00",
+                      "close": "21:00"
+                    }
+                  ],
+                  "thu": [
+                    {
+                      "open": "07:00",
+                      "close": "21:00"
+                    }
+                  ],
+                  "fri": [
+                    {
+                      "open": "07:00",
+                      "close": "21:00"
+                    }
+                  ],
+                  "sat": [
+                    {
+                      "open": "07:00",
+                      "close": "21:00"
+                    }
+                  ],
+                  "sun": [
+                    {
+                      "open": "07:00",
+                      "close": "21:00"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "type": "infoCards",
+            "id": "charles_mgh_cafes",
+            "sites": [
+              "*"
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
+            ],
+            "cards": [
+              {
+                "id": "charles_mgh_cafes",
+                "title": {
+                  "en": "Cafeteria & bakery — Charles/MGH area",
+                  "es": "Cafés y panaderías — zona de Charles/MGH"
+                },
+                "body": {
+                  "en": "Tatte Bakery & Café (Charles St) and Flour Bakery and Cafe (Cambridge St) — pastries, sandwiches, salads. Open early morning through evening.",
+                  "es": "Tatte Bakery & Café (Charles St) y Flour Bakery and Cafe (Cambridge St): pastelitos, sándwiches y ensaladas. Abiertos desde temprano en la mañana hasta la noche."
+                }
+              }
+            ]
+          },
+          {
+            "type": "infoCards",
+            "id": "cambridge_st_quick_bites",
+            "sites": [
+              "*"
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
+            ],
+            "cards": [
+              {
+                "id": "cambridge_st_quick_bites",
+                "title": {
+                  "en": "Quick bites on Cambridge St",
+                  "es": "Comida rápida en Cambridge St"
+                },
+                "body": {
+                  "en": "Sweetgreen, Annas Taqueria, Felcaro's Pizzeria, and Finns Sushi.",
+                  "es": "Sweetgreen, Annas Taqueria, Felcaro's Pizzeria y Finns Sushi."
+                }
+              }
+            ]
+          },
+          {
+            "type": "infoCards",
+            "id": "late_night_options",
+            "sites": [
+              "*"
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
+            ],
+            "cards": [
+              {
+                "id": "late_night_options",
+                "title": {
+                  "en": "Late-night / 24-hour options",
+                  "es": "Opciones de noche y abiertas las 24 horas"
+                },
+                "body": {
+                  "en": "7-Eleven (Cambridge St, near Charles Circle) is open 24 hours for snacks and basics. Beacon Hill Market (Charles St) is a late-night grocery until midnight. South Station food court (~15 min via Red Line) has several 24-hour spots if you need a change of scene.",
+                  "es": "7-Eleven (Cambridge St, cerca de Charles Circle) está abierto las 24 horas para refrigerios y artículos básicos. Beacon Hill Market (Charles St) es una tienda de comestibles abierta hasta la medianoche. El patio de comidas de South Station (unos 15 minutos en la Línea Roja) tiene varios lugares abiertos las 24 horas si necesita cambiar de ambiente."
+                }
+              }
+            ]
+          },
+          {
+            "type": "infoCards",
+            "id": "delivery_to_hospital",
+            "sites": [
+              "*"
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
+            ],
+            "cards": [
+              {
+                "id": "delivery_to_hospital",
+                "title": {
+                  "en": "Delivery to the hospital",
+                  "es": "Entrega de comida en el hospital"
+                },
+                "body": {
+                  "en": "DoorDash, Uber Eats, and Grubhub all deliver to MGH. Meet the driver at the Fruit St main entrance — most buildings don't allow drivers upstairs.",
+                  "es": "DoorDash, Uber Eats y Grubhub entregan en MGH. Reúnase con el repartidor en la entrada principal de Fruit St; en la mayoría de los edificios no se permite que los repartidores suban."
+                }
+              }
+            ]
+          },
+          {
+            "type": "infoCards",
+            "id": "north_end",
+            "sites": [
+              "*"
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
+            ],
+            "cards": [
+              {
+                "id": "north_end",
+                "title": {
+                  "en": "North End (10 min walk / short ride)",
+                  "es": "North End (a 10 minutos a pie o un viaje corto)"
+                },
+                "style": "plain",
+                "body": {
+                  "en": "For a real break: Italian restaurants and cafés on Hanover St stay open late. Regina Pizzeria and Mike's Pastry are family favorites.",
+                  "es": "Para tomarse un buen descanso: los restaurantes italianos y los cafés de Hanover St abren hasta tarde. Regina Pizzeria y Mike's Pastry son los favoritos de las familias."
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "educational_resource": {
+        "blocks": [],
+        "subcategories": [
+          {
+            "id": "breastfeeding",
+            "title": {
+              "en": "Breastfeeding",
+              "es": "Lactancia materna"
+            },
+            "description": {
+              "en": "Latching, pumping, medications, and where to find help",
+              "es": "Agarre, extracción, medicamentos y dónde encontrar ayuda"
+            },
+            "resourceIds": [
+              "breastfeeding_getting_started",
+              "lactation_support_program",
+              "medications_while_breastfeeding",
+              "breastfeeding_help_and_support",
+              "breastfeeding_handouts"
+            ]
+          },
+          {
+            "id": "trach_care",
+            "title": {
+              "en": "Trach care",
+              "es": "Cuidado de la traqueostomía"
+            },
+            "description": {
+              "en": "Videos: what to expect, suctioning, and changing the tube",
+              "es": "Videos: qué esperar, cómo aspirar y cómo cambiar la cánula"
+            },
+            "resourceIds": [
+              "pediatric_tracheostomy_what_you_need_to_know",
+              "pediatric_tracheostomy_how_to_suction_a_trach",
+              "pediatric_tracheostomy_how_to_exchange_a_trach"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "essentials": {
+    "items": [
+      {
+        "id": "welcome_guide",
+        "title": {
+          "en": "PICU Welcome Guide",
+          "es": "Guía de bienvenida a la PICU"
+        },
+        "summary": {
+          "en": "Start here: visiting, rounds, the family lounge, sleep rooms, food and parking.",
+          "es": "Empiece aquí: visitas, la visita del equipo médico, la sala familiar, las habitaciones para dormir, la comida y el estacionamiento."
+        },
+        "icon": "lighthouse",
+        "link": {
+          "type": "resource",
+          "id": "picu_welcome_guide"
+        },
+        "units": [
+          "picu"
+        ],
+        "sites": [
+          "mgh"
+        ]
+      },
+      {
+        "id": "visiting_hours",
+        "title": {
+          "en": "Visiting hours",
+          "es": "Horario de visitas"
+        },
+        "summary": {
+          "en": "8:00 am – 8:00 pm. Up to 2 visitors at the bedside; one parent or guardian can stay overnight.",
+          "es": "11:00 am – 8:00 pm. Hasta 2 visitantes en la habitación; un padre, madre o tutor puede pasar la noche."
+        },
+        "icon": "clock",
+        "link": {
+          "type": "resource",
+          "id": "picu_welcome_guide",
+          "section": "visiting"
+        },
+        "units": [
+          "picu"
+        ],
+        "sites": [
+          "mgh"
+        ]
+      },
+      {
+        "id": "campus_map",
+        "title": {
+          "en": "Campus map",
+          "es": "Mapa del campus"
+        },
+        "icon": "map",
+        "link": {
+          "type": "category",
+          "id": "campus_map"
+        },
+        "units": [
+          "*"
+        ],
+        "sites": [
+          "mgh"
+        ]
+      },
+      {
+        "id": "food",
+        "title": {
+          "en": "Food",
+          "es": "Comida"
+        },
+        "summary": {
+          "en": "Eat Street Café, Ellison Building lower level. Coffee Central is open 24 hours.",
+          "es": "Eat Street Café, en el nivel inferior del edificio Ellison. Coffee Central está abierto las 24 horas."
+        },
+        "icon": "food",
+        "link": {
+          "type": "category",
+          "id": "food_dining"
+        },
+        "units": [
+          "*"
+        ],
+        "sites": [
+          "mgh"
+        ]
+      },
+      {
+        "id": "vending_machines",
+        "title": {
+          "en": "Vending machines",
+          "es": "Máquinas expendedoras"
+        },
+        "summary": {
+          "en": "Snacks, cold drinks and coffee machines in the Ellison Building main lobby, open 24/7.",
+          "es": "Máquinas de refrigerios, bebidas frías y café en el vestíbulo principal del edificio Ellison, disponibles las 24 horas, todos los días."
+        },
+        "icon": "snacks",
+        "link": {
+          "type": "category",
+          "id": "food_dining",
+          "section": "vending_section"
+        },
+        "units": [
+          "*"
+        ],
+        "sites": [
+          "mgh"
+        ]
+      },
+      {
+        "id": "somewhere_to_sleep",
+        "title": {
+          "en": "Somewhere to sleep",
+          "es": "Un lugar para dormir"
+        },
+        "summary": {
+          "en": "Sleep rooms are given out nightly, based on availability and your child's condition.",
+          "es": "Las habitaciones para dormir se asignan cada noche, según la disponibilidad y la condición de su hijo."
+        },
+        "icon": "bed",
+        "link": {
+          "type": "resource",
+          "id": "picu_welcome_guide",
+          "section": "where_can_i_sleep"
+        },
+        "units": [
+          "picu"
+        ],
+        "sites": [
+          "mgh"
+        ]
+      },
+      {
+        "id": "shower",
+        "title": {
+          "en": "Shower",
+          "es": "Ducha"
+        },
+        "summary": {
+          "en": "Family Lounge, around the corner from the Bigelow elevators outside the PICU. Wheelchair accessible. Ask your child's nurse for a towel.",
+          "es": "Sala familiar, a la vuelta de los ascensores de Bigelow, fuera de la PICU. Accesible para sillas de ruedas. Pídale una toalla a la enfermera de su hijo."
+        },
+        "icon": "shower",
+        "link": {
+          "type": "resource",
+          "id": "picu_welcome_guide",
+          "section": "family_lounge"
+        },
+        "units": [
+          "picu"
+        ],
+        "sites": [
+          "mgh"
+        ]
+      },
+      {
+        "id": "laundry",
+        "title": {
+          "en": "Laundry",
+          "es": "Lavandería"
+        },
+        "summary": {
+          "en": "Washer and dryer on Ellison 17. Laundry detergent is available on request.",
+          "es": "Lavadora y secadora en el piso 17 del edificio Ellison. El detergente está disponible a pedido."
+        },
+        "icon": "laundry",
+        "link": {
+          "type": "resource",
+          "id": "picu_welcome_guide",
+          "section": "where_can_i_wash_my_clothes"
+        },
+        "units": [
+          "picu"
+        ],
+        "sites": [
+          "mgh"
+        ]
+      },
+      {
+        "id": "places_to_stay_nearby",
+        "title": {
+          "en": "Places to stay nearby",
+          "es": "Alojamiento cercano"
+        },
+        "summary": {
+          "en": "Hotels with medical rates, Ronald McDonald House, and other options.",
+          "es": "Hoteles con tarifas médicas, la Ronald McDonald House y otras opciones."
+        },
+        "icon": "hotel",
+        "link": {
+          "type": "resource",
+          "id": "overnight_accommodations"
+        },
+        "units": [
+          "picu"
+        ],
+        "sites": [
+          "*"
+        ]
+      },
+      {
+        "id": "wifi",
+        "title": {
+          "en": "Wi-Fi",
+          "es": "Wi-Fi"
+        },
+        "summary": {
+          "en": "Connect to the PHSPIAGUEST guest network. No password needed.",
+          "es": "Conéctese a la red para invitados PHSPIAGUEST. No se requiere contraseña."
+        },
+        "icon": "wifi",
+        "link": {
+          "type": "resource",
+          "id": "guest_wifi_and_charging",
+          "section": "guest_wi_fi"
+        },
+        "units": [
+          "*"
+        ],
+        "sites": [
+          "mgh"
+        ]
+      },
+      {
+        "id": "parking",
+        "title": {
+          "en": "Parking",
+          "es": "Estacionamiento"
+        },
+        "summary": {
+          "en": "Show your PICU visitor sticker to get discounted parking.",
+          "es": "Presente su vale de visitante de la PICU para obtener la tarifa de descuento."
+        },
+        "icon": "parking",
+        "link": {
+          "type": "resource",
+          "id": "picu_welcome_guide",
+          "section": "how_can_i_validate_parking"
+        },
+        "units": [
+          "picu"
+        ],
+        "sites": [
+          "mgh"
+        ]
+      },
+      {
+        "id": "toiletries_and_chargers",
+        "title": {
+          "en": "Toiletries and chargers",
+          "es": "Artículos de aseo y cargadores"
+        },
+        "summary": {
+          "en": "The gift shop sells toiletries and phone chargers.",
+          "es": "La tienda de regalos vende artículos de aseo personal y cargadores de teléfono."
+        },
+        "icon": "toiletries",
+        "link": {
+          "type": "resource",
+          "id": "gift_shop_and_flower_shop"
+        },
+        "units": [
+          "*"
+        ],
+        "sites": [
+          "mgh"
+        ]
+      }
+    ]
+  },
+  "phaseCards": {
+    "items": [
+      {
+        "id": "card_j8n9gua5",
+        "title": {
+          "en": "New to the PICU? Start here",
+          "es": "¿Es nuevo en la PICU? Empiece aquí"
+        },
+        "body": {
+          "en": "Visiting hours, medical rounds, where to sleep, food, laundry and parking.",
+          "es": "Horario de visitas, visita del equipo médico, dónde dormir, comida, lavandería y estacionamiento."
+        },
+        "icon": "lighthouse",
+        "action": {
+          "type": "resource",
+          "id": "picu_welcome_guide"
+        },
+        "actionLabel": {
+          "en": "PICU Welcome Guide",
+          "es": "Guía de bienvenida a la PICU"
+        },
+        "dismissLabel": {
+          "en": "Hide",
+          "es": "Ocultar"
+        },
+        "kind": "tip",
+        "units": [
+          "picu"
+        ],
+        "sites": [
+          "*"
+        ],
+        "phasesByUnit": {
+          "picu": [
+            "pre_admission",
+            "just_arrived",
+            "first_night"
+          ]
+        }
+      },
+      {
+        "id": "card_sfeteipc",
+        "title": {
+          "en": "Getting ready to go home?",
+          "es": "¿Se preparan para volver a casa?"
+        },
+        "body": {
+          "en": "Use the discharge checklist to make sure medicines, follow-up visits, school and home are ready.",
+          "es": "Usen la lista para el alta para asegurarse de que los medicamentos, las citas de seguimiento, la escuela y la casa estén listos."
+        },
+        "action": {
+          "type": "resource",
+          "id": "discharge_readiness_checklist"
+        },
+        "actionLabel": {
+          "en": "Discharge checklist",
+          "es": "Lista para el alta"
+        },
+        "dismissLabel": {
+          "en": "Hide",
+          "es": "Ocultar"
+        },
+        "kind": "tip",
+        "units": [
+          "picu"
+        ],
+        "sites": [
+          "*"
+        ],
+        "phasesByUnit": {
+          "picu": [
+            "going_home"
+          ]
+        }
+      }
+    ]
+  },
+  "tour": {
+    "stops": [
+      {
+        "id": "phase_timeline",
+        "title": {
+          "en": "Slide to where you are",
+          "es": "Deslice hasta donde se encuentra"
+        },
+        "body": {
+          "en": "Each icon is a part of a hospital stay, from getting ready to going home. Move the slider as your stay goes on.",
+          "es": "Cada ícono es una parte de la estadía en el hospital, desde los preparativos hasta el regreso a casa. Deslice al siguiente a medida que avanza su estadía."
+        }
+      },
+      {
+        "id": "phase_picker",
+        "title": {
+          "en": "Tap to change where you are",
+          "es": "Toque para cambiar dónde se encuentra"
+        },
+        "body": {
+          "en": "Pick a new part of your stay, and the Suggested tab updates to match.",
+          "es": "Elija otra parte de su estadía y la pestaña Sugeridos se ajustará a ella."
+        }
+      },
+      {
+        "id": "phase_tabs",
+        "title": {
+          "en": "Picked for where you are",
+          "es": "Elegidos para este momento"
+        },
+        "body": {
+          "en": "The Suggested tab shows resources chosen for your part of the stay. Tap Everything to see them all.",
+          "es": "La pestaña Sugeridos muestra los recursos elegidos para su parte de la estadía. Toque Todo para ver todos los recursos."
+        }
+      },
+      {
+        "id": "essentials",
+        "title": {
+          "en": "The essentials",
+          "es": "Lo esencial"
+        },
+        "body": {
+          "en": "Wi-Fi, food, parking: the things families need most, in one place.",
+          "es": "Wi-Fi, comida, estacionamiento: lo que las familias más necesitan, en un solo lugar."
+        }
+      },
+      {
+        "id": "notes",
+        "title": {
+          "en": "Your notes",
+          "es": "Sus notas"
+        },
+        "body": {
+          "en": "Jot down questions or things to remember. Your notes are just for you. They aren’t sent to anyone.",
+          "es": "Anote preguntas o cosas que quiera recordar. Sus notas son solo para usted. No se envían a nadie."
+        }
+      }
+    ]
+  }
+}
