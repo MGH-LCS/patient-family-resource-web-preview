@@ -1,0 +1,22 @@
+{
+  "care_team": [
+    "picu_attending",
+    "nurse_advice_line",
+    "picu_outpatient_followup",
+    "picu_nurse_station"
+  ],
+  "support": [
+    "patient_family_relations",
+    "chaplaincy"
+  ],
+  "services": [
+    "interpreter_services",
+    "main_operator_mgh",
+    "main_operator_nwh",
+    "main_operator_bwh",
+    "security_mgh",
+    "case_management",
+    "security_nwh",
+    "security_bwh"
+  ]
+}
